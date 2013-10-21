@@ -10,6 +10,7 @@ public class Customer {
   public String getPostalCode() {
     return postalCode;
   }
+  
 
   public void setPostalCode(String postalCode) {
     this.postalCode = postalCode;
