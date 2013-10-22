@@ -8,7 +8,7 @@ import com.yummynoodlebar.core.repository.OrdersRepository;
 
 import java.util.*;
 
-public class OrderEventHandler implements OrderService {
+//public class OrderEventHandler implements OrderService {
 
   private final OrdersRepository ordersRepository;
 
